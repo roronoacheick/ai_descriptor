@@ -52,4 +52,4 @@ def describe_image(image_path):
     return(chat_response.choices[0].message.content)
 
 image_path = r"C:\Users\roron\Pictures\rap festif.png"   
-print(describe_image(image_path))
+
